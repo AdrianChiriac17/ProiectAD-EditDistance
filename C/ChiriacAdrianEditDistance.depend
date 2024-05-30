@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1717086063 source:d:\informatica\proiecte c\ajutpechiriac\choosewords.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"choosewords.h"
+
+1717085443 d:\informatica\proiecte c\ajutpechiriac\choosewords.h
+
+1717086028 source:d:\informatica\proiecte c\ajutpechiriac\ajutpechiriac.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"choosewords.h"
+	<string.h>
+
+1717093093 source:c:\users\adrian\desktop\ajutpechiriac\ajutpechiriac.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"choosewords.h"
+	<string.h>
+
+1717092392 c:\users\adrian\desktop\ajutpechiriac\choosewords.h
+
+1717092442 source:c:\users\adrian\desktop\ajutpechiriac\choosewords.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<unistd.h>
+	"choosewords.h"
+
